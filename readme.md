@@ -5,8 +5,6 @@
 ### 📌 Technology stack
         #️⃣ Go(Basic Language)
 
-        #️⃣ Vue/Vite(Front-end framework)
-
         #️⃣ Nginx(LoadBalance Api-iCache Request)
 
         #️⃣ Git/GitHub(Code hub and manage)
